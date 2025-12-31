@@ -1,7 +1,7 @@
 <?php
 /**
- * setup_fcaujes.php
- * Cria o banco fcaujes, cria as tabelas e popula os dados
+ * setup_database.php
+ * Create database db_name, create tables end populate
  */
 
 $host = 'localhost';
